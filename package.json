@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "react eshop",
   "main": "src/index.js",
-  "homepage": "https://enmanueljosue.github.io",
+  "homepage": "https://enmanueljosue.github.io/react-ecommerce",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack server --open",
